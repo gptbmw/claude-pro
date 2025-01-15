@@ -34,13 +34,11 @@ Claude Pro不仅能够快速理解用户需求并做出精准响应，还能在�
 
 * 4.一个用于支付的国外银行卡或信用卡：升级订阅Claude Pro时需要绑定国外银行卡或信用卡。推荐使用 WildCard虚拟信用卡，它操作便捷、支付稳定且成功率高达100%。详细的WildCard虚拟信用卡开卡和支付教程将在后文中说明。（如何获取一张<a href="https://bewildcard.com/i/GPTBMW">WildCard虚拟信用卡</a>，请查看下文！）
 
-## 如何开通WildCard虚拟信用卡
+## 如何开通WildCard虚拟信用卡（详细操作步骤）
 
 WildCard虚拟信用卡无需上传身份证，一分钟即可完成注册，支持跨境支付和人民币充值，适用于无需实体卡的在线交易。它无月租、可长期使用，可轻松订阅多种海外服务，如Claude Pro、OpenAI、Midjourney、ChatGPT Plus、Google Play、OnlyFans等，操作简单且安全。WildCard本质是一种虚拟借记卡，无固定消费额度，需要充值后才能进行消费。
 
 * 重点提示：使用我们的专属邀请码“GPTBMW”可享受优惠，同时支付成功率高达 100%。
-
-### 注册开通WildCard虚拟信用卡的详细流程
 
 #### 第一步：访问WildCard官网
 
