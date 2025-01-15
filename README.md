@@ -1,4 +1,4 @@
-# 中国用户注册Claude帐号和升级订阅Claude Pro会员教程
+# 中国大陆升级订阅Claude Pro会员教程：如何注册Claude帐号？如何使用WilCard虚拟信用卡购买开通Claude Pro账号？
 
 <p align="center">文章更新于：2025年1月15日</p >
 
