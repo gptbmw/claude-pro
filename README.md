@@ -2,6 +2,8 @@
 
 <p align="center">文章更新于：2025年1月15日</p >
 
+![封面图](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B%EF%BC%88%E9%A6%96%E5%9B%BE%EF%BC%89.png)
+
 Claude Pro被誉为迄今为止最智能的AI模型之一，其能力不逊于ChatGPT Plus。许多用户在体验后表示：Claude Pro在逻辑推理、上下文对话、多语言处理、代码计算、视觉分析等方面表现出色，甚至在某些场景下超越了ChatGPT Plus。此外，它的回答几乎没有明显的AI痕迹，显得更加自然流畅。
 
 Claude Pro不仅能够快速理解用户需求并做出精准响应，还能在提供答案的同时清晰展示其解释和推理过程。这种特性使其成为了深受用户喜爱的智能工具。然而，尽管它功能强大，仍有不少小伙伴对如何注册、使用和订阅Claude Pro感到困惑。其实，整个流程并不复杂，唯一可能的难点在于获取海外手机号码。（我们将在后续内容中详细说明如何获取海外手机号。）
@@ -46,13 +48,19 @@ WildCard虚拟信用卡无需上传身份证，一分钟即可完成注册，支
 
 打开WildCard官网，在首页右上角可以找到语言切换按钮，轻松切换英文/中文界面。向下滚动页面，你可以查看WildCard的收费标准、服务承诺，以及支持的全球服务（包括OpenAI、Claude、Midjourney、Apple Store、Google Play、ChatGPT、GitHub等）。页面还提供详细的注册步骤、零门槛支付说明和一键升级的图文介绍。
 
+![访问Wildcard官网](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-1.png)
+
 #### 第二步：注册账号
 
 点击右上角的“登录/注册”按钮后，选择最下方的“去注册”选项。输入手机号码并获取验证码后，填写验证码并提交注册信息。完成这些操作后，设置登录密码，即可完成账号注册。
 
+![注册账户](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-4.png)
+
 #### 第三步：开通会员
 
 点击左侧的“立即开通-继续开通-开通会员”，进入选择服务年限界面，选择你需要的年限，填写邀请码“**GPTBMW**”，点击“下一步”，然后选择支付方式。系统会弹出支付宝二维码，使用手机扫码完成支付即可。
+
+![选择服务年限](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-5.png)
 
 开通Wildcard会员需要支付一定的开卡费，这相当于办理银行卡时的工本费，并不会计入你的余额。如果需要使用Wildcard进行支付订阅服务，需先充值后再订阅，以免因多次余额不足导致支付失败，从而触发卡片冻结。
 
@@ -62,6 +70,8 @@ WildCard虚拟信用卡无需上传身份证，一分钟即可完成注册，支
 
 支付完成后，会进入到填写个人信息页面。注意填写的姓名必须为英文，年龄需年满18周岁。填写完成后，仔细阅读封禁须知，点击“我已了解”，即可完成会员开通。
 
+![填写个人信息](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-7%E5%A1%AB%E5%86%99%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%BB%BD%E4%BF%A1%E6%81%AF.jpg)
+
 #### 第五步：实名认证（这一步可自行选择）
 
 如果不进行实名认证，Wildcard每月的支付限额为60美金；完成实名认证后，通过人脸验证支付额度可提升至3000美金。是否认证可根据个人使用需求自行决定。无论是否认证，你都可以正常使用Wildcard虚拟信用卡在OpenAI、Google Play、ChatGPT等平台充值。认证与否仅影响每月支付额度。
@@ -69,6 +79,8 @@ WildCard虚拟信用卡无需上传身份证，一分钟即可完成注册，支
 #### 第六步：查看我的卡片信息
 
 完成所有步骤后，可在左侧菜单栏点击“我的卡片”，查看详细信息，包括卡号、有效期、账单地址、可支付余额和CVC等内容。
+
+![查看虚拟信用卡信息](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-9%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87.png)
 
 OK，可以看到，WildCard的开卡过程非常简单，只需按照以下步骤操作：打开官网-注册-开通会员-支付-填写个人信息，即可轻松完成开卡，并顺利订阅各种海外服务。
 
@@ -78,9 +90,14 @@ OK，可以看到，WildCard的开卡过程非常简单，只需按照以下步�
 
 打开浏览器访问Claude官网（claude.ai），输入你的Gmail邮箱地址，点击“Continue with email”。如果无法进入官网，说明当前节点无法访问Claude，你需要切换到一个稳定安全的节点后再尝试。
 
+![访问Claude官网](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8C1.jpg)
+
 ### 第二步：验证电子邮箱
 
 打开你的Gmail邮箱，找到Claude发送的验证邮件，点击邮件中的“Sign in to Claude.ai”链接，确认后进入手机验证码界面。如果在收件箱中未找到邮件，可以检查“垃圾邮件”或“促销邮件”文件夹。
+
+
+![验证电子邮箱](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8C2.jpg)
 
 ### 第三步：获取海外手机号码
 
@@ -89,9 +106,21 @@ OK，可以看到，WildCard的开卡过程非常简单，只需按照以下步�
 #### 方法一：通过Sms-activate接码平台获取
 
 * （1）访问Sms-activate官网（sms-activate.guru/cn）， 右上角可以切换语言为中文。
+
+![访问Sms-activate官网](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%911.jpg)
+  
 * （2）账号注册：点击右上角的注册按钮，输入邮箱完成验证，并根据提示完成账号注册。
+
+![Sms-activate账号注册](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%912.jpg)
+
+  
 * （3）充值账户：点击右上角个人ID下方余额旁边的“+”号，从支付方式中选择支付宝，输入充值金额并扫码完成支付。
+
+![Sms-activate充值账户](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%913.jpg)
+  
 * （4）购买手机号：在左侧导航栏搜索框输入“Claude”进行搜索，选择符合要求的国家和价格，点击购物车按钮支付购买。购买后，手机号会显示在网页下方，请尽快使用，因为号码有效期有限。
+
+  ![Sms-activate购买手机号](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%914.png)
 
  友情提示：如果购买的号码未能接收验证码，Sms-activate会自动退还支付金额，无需担心资金损失。号码的购买费用以卢布计费，1元人民币约合14卢布，1美元约合103卢布，价格相对便宜。
 
@@ -103,9 +132,13 @@ OK，可以看到，WildCard的开卡过程非常简单，只需按照以下步�
 
 将刚刚通过接码平台或者获取到的手机号码复制并粘贴到Claude手机号码验证页面中。需要特别注意的是，号码框前的国家代码必须与号码所属国家一致。确认无误后，点击“Send Verification Code”按钮。
 
+![输入验证码](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8C5.jpg)
+
 ### 第五步：输入验证码
 
 回到Sms-activate接码平台或WildCard后台，找到并复制接收到的验证码。将验证码粘贴到Claude页面的输入框中，然后点击“Verify & Create Account”按钮，完成手机验证。
+
+![输入验证码](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8C5.jpg)
 
 当设置好账号名后，你的Claude账号注册已经完成，现在可以正式体验Claude的强大功能。如果你想解锁更多高级功能，例如突破对话限制、高流量时段的优先权、更大的使用量、更长的上下文处理能力以及更快的输出速度，就需要完成Claude Pro的订阅。
 
@@ -117,17 +150,25 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 
 使用你的Claude账号登录后，在当前基础的免费版页面上，可以直接点击页面上方的“Upgrade”，或者在右上角的设置中选择“Upgrade Plan”。
 
+![登录Claude账号选择升级订阅](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/pro-1.png)
+
 ### 第二步：选择升级套餐
 
 在套餐选择页面，找到Pro选项，点击Pro下方的“Subscribe to Pro”按钮。在这里，你可以清楚地看到Claude Pro的订阅价格以及相较于免费版的优势。
+
+![选择套餐](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Pro-2.png)
 
 ### 第三步：支付订阅费用
 
 打开WildCard页面，点击左侧菜单的“按产品支付”选项，找到并选择Claude进行支付。支付完成后，WildCard会提供Claude Pro订阅的相关操作步骤，供你参考。
 
+![支付Claude Pro订阅费用](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/pro-3.jpg)
+
 ### 第四步：绑定卡片信息
 
 将WildCard生成的虚拟卡片信息绑定到Claude账号上，然后点击“Subscribe”订阅按钮。完成后，你会看到订阅成功的提示。
+
+![绑定输入卡片信息](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/pro-4.png)
 
 通过以上四个简单步骤，你就完成了Claude Pro的订阅。现在，请尽情享受Claude Pro带来的高效服务和强大功能吧！
 
