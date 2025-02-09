@@ -1,8 +1,8 @@
 # 中国大陆升级订阅Claude Pro会员教程：如何注册Claude帐号？如何使用WilCard虚拟信用卡购买开通Claude Pro账号？
 
-<p align="center">文章更新于：2025年1月15日</p >
+<p align="center">文章更新于：2025年2月8日</p >
 
-![封面图](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B%EF%BC%88%E9%A6%96%E5%9B%BE%EF%BC%89.png)
+![Claude封面图](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B%EF%BC%88%E9%A6%96%E5%9B%BE%EF%BC%89.png)
 
 Claude Pro被誉为迄今为止最智能的AI模型之一，其能力不逊于ChatGPT Plus。许多用户在体验后表示：Claude Pro在逻辑推理、上下文对话、多语言处理、代码计算、视觉分析等方面表现出色，甚至在某些场景下超越了ChatGPT Plus。此外，它的回答几乎没有明显的AI痕迹，显得更加自然流畅。
 
@@ -60,7 +60,7 @@ WildCard虚拟信用卡无需上传身份证，一分钟即可完成注册，支
 
 点击左侧的“立即开通-继续开通-开通会员”，进入选择服务年限界面，选择你需要的年限，填写邀请码“**GPTBMW**”，点击“下一步”，然后选择支付方式。系统会弹出支付宝二维码，使用手机扫码完成支付即可。
 
-![选择服务年限](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-5.png)
+![选择Wildcard服务年限](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/wildcard-5.png)
 
 开通Wildcard会员需要支付一定的开卡费，这相当于办理银行卡时的工本费，并不会计入你的余额。如果需要使用Wildcard进行支付订阅服务，需先充值后再订阅，以免因多次余额不足导致支付失败，从而触发卡片冻结。
 
@@ -156,7 +156,7 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 
 在套餐选择页面，找到Pro选项，点击Pro下方的“Subscribe to Pro”按钮。在这里，你可以清楚地看到Claude Pro的订阅价格以及相较于免费版的优势。
 
-![选择套餐](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Pro-2.png)
+![选择Claude Pro套餐](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Pro-2.png)
 
 ### 第三步：支付订阅费用
 
@@ -265,3 +265,9 @@ WildCard的提现服务无任何手续费，用户可以放心操作。直接提
 提现申请提交后，系统会立即处理，大多数情况下余额会实时到账支付宝账户。这种高效的提现服务为用户提供了极大的便利，不必担心资金延迟的问题。
 
 通过了解并遵循以上注意事项，你可以轻松管理WildCard的余额提现操作，确保资金得到充分合理的使用，进一步提升你的支付体验。WildCard始终致力于为用户提供便捷、安全的资金管理服务，让每一笔余额都能物尽其用。
+
+# 国内用户如何获得ChatGPT Plus会员其他相关文章
+
+* <a href="https://github.com/gptbmw/gptbmw.github.io">国内升级订阅ChatGPT Plus会员教程</a> ：本文详细讲解了如何注册个人独立ChatGPT账号，以及如何使用国内支付方式升级订阅ChatGPT Plus会员。同时文章中还重点介绍了如何开通申请WildCard虚拟信用卡、如何取消ChatGPT Plus订阅、如何管理自己的WildCard卡片。
+
+* <a href="https://github.com/gptbmw/chatgpt-plus-hezu">最新ChatGPT Plus拼车合租购买教程、平台推荐</a> ：本文详细介绍了如何安全高效地合租拼车ChatGPT Plus账号，国内最新最靠谱合租ChatGPT Plus账号平台推荐，合租拼车的优缺点，以及合租时需要注意的事项，帮助大家低成本享受高性价比的ChatGPT Plus订阅体验。
