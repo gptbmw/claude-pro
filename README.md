@@ -132,7 +132,7 @@ OK，可以看到，WildCard的开卡过程非常简单，只需按照以下步�
 
 将刚刚通过接码平台或者获取到的手机号码复制并粘贴到Claude手机号码验证页面中。需要特别注意的是，号码框前的国家代码必须与号码所属国家一致。确认无误后，点击“Send Verification Code”按钮。
 
-![输入验证码](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8C5.jpg)
+![填写手机号码](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8C4.jpg)
 
 ### 第五步：输入验证码
 
