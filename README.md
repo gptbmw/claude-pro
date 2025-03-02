@@ -266,7 +266,7 @@ WildCard的提现服务无任何手续费，用户可以放心操作。直接提
 
 通过了解并遵循以上注意事项，你可以轻松管理WildCard的余额提现操作，确保资金得到充分合理的使用，进一步提升你的支付体验。WildCard始终致力于为用户提供便捷、安全的资金管理服务，让每一笔余额都能物尽其用。
 
-# 国内用户如何获得ChatGPT Plus会员其他相关文章
+# 其他相关文章
 
 * <a href="https://github.com/gptbmw/gptbmw.github.io">国内升级订阅ChatGPT Plus会员教程</a> ：本文详细讲解了如何注册个人独立ChatGPT账号，以及如何使用国内支付方式升级订阅ChatGPT Plus会员。同时文章中还重点介绍了如何开通申请WildCard虚拟信用卡、如何取消ChatGPT Plus订阅、如何管理自己的WildCard卡片。
 
