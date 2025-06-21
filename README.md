@@ -1,6 +1,6 @@
 # 中国大陆升级订阅Claude Pro会员教程：如何注册Claude帐号？如何使用WilCard虚拟信用卡购买开通Claude Pro账号？
 
-<p align="center">文章更新于：2025年2月8日</p >
+<p align="center">文章更新于：2025年5月8日</p >
 
 ![Claude封面图](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B%EF%BC%88%E9%A6%96%E5%9B%BE%EF%BC%89.png)
 
