@@ -96,10 +96,6 @@ OK，可以看到，<a href="https://github.com/gptbmw/wildcard">wildcard虚拟�
 
  友情提示：如果购买的号码未能接收验证码，Sms-activate会自动退还支付金额，无需担心资金损失。号码的购买费用以卢布计费，1元人民币约合14卢布，1美元约合103卢布，价格相对便宜。
 
-#### 方法二：通过WildCard申请海外手机号码
-
-打开并登录你的WildCard账号，在左侧菜单栏下方找到“海外手机号”选项，点击进入申请页面。每个WildCard账号可以免费申请3次海外手机号码。申请后请尽快使用，以免号码过期失效。
-
 ### 第四步：填写手机号码
 
 将刚刚通过接码平台或者获取到的手机号码复制并粘贴到Claude手机号码验证页面中。需要特别注意的是，号码框前的国家代码必须与号码所属国家一致。确认无误后，点击“Send Verification Code”按钮。
@@ -134,7 +130,7 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 
 ### 第三步：支付订阅费用
 
-打开WildCard页面，点击左侧菜单的“按产品支付”选项，找到并选择Claude进行支付。支付完成后，WildCard会提供Claude Pro订阅的相关操作步骤，供你参考。
+打开<a href="https://github.com/gptbmw/wildcard">wildcard</a>页面，点击左侧菜单的“按产品支付”选项，找到并选择Claude进行支付。支付完成后，WildCard会提供Claude Pro订阅的相关操作步骤，供你参考。
 
 ![支付Claude Pro订阅费用](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/pro-3.jpg)
 
@@ -145,6 +141,8 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 ![绑定输入卡片信息](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/pro-4.png)
 
 通过以上四个简单步骤，你就完成了Claude Pro的订阅。现在，请尽情享受Claude Pro带来的高效服务和强大功能吧！
+
+<a href="https://github.com/gptbmw/wildcard">点击直达wildcard官网</a>
 
 ## Claude Pro的功能特点（优势）
 
@@ -162,6 +160,8 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 
 * 支持语音聊天：Claude Pro支持实时语音聊天功能，为用户提供更加人性化的服务体验，适合需要即时沟通的场景。
 
+<a href="https://github.com/gptbmw/wildcard">点击直达wildcard官网</a>
+
 ## 如何取消Claude Pro订阅？
 
 当我们成功订阅了Claude Pro后，和ChatGPT Plus一样，通常下个月默认自动续费，以确保服务不中断。如果你不想再使用或者避免因WildCard卡中余额不足而导致扣款失败，及时管理订阅就显得非常重要。如果不想再续费，我们需要在Claude账号中取消订阅，那么应该如何取消Claude Pro订阅呢？以下是取消Claude Pro订阅的详细步骤：
@@ -172,9 +172,11 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 
 如果实在不会，我们也可以联系Claude的客服，帮助我们取消订阅。取消订阅后，我们的Pro功能不会立即停止，而是在当前付费周期到期后停止。
 
-* 友情提示：如果我们的WildCard卡中余额不足，多次扣款失败后，卡片将会被冻结。如果需要解冻，则需支付一定费用才能解冻。为避免出现此类情况，请确保卡片余额充足，或者提前取消自动续费。
+* 友情提示：如果我们的<a href="https://github.com/gptbmw/wildcard">wildcard</a>卡中余额不足，多次扣款失败后，卡片将会被冻结。如果需要解冻，则需支付一定费用才能解冻。为避免出现此类情况，请确保卡片余额充足，或者提前取消自动续费。
 
 如果我们在使用Claude Pro过程中遇到任何问题，都可以直接联系Claude的官方客服。可以点击官网右下角的客服按钮进行咨询，通常Claude Pro的客服团队会在24小时内回复，并帮助我们解决问题。Claude Pro为用户提供了全面的服务体验，帮助我们顺畅地享受Claude Pro带来的强大功能。
+
+<a href="https://github.com/gptbmw/wildcard">点击直达wildcard官网</a>
 
 ## 如何预防Claude封号？
 
