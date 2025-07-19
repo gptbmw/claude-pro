@@ -1,6 +1,29 @@
 # 中国大陆升级订阅Claude Pro会员教程：如何注册Claude帐号？如何使用WilCard虚拟信用卡购买开通Claude Pro账号？
 
-<p align="center">文章更新于：2025年5月8日</p >
+<p align="center">文章更新于：2025年7月19日</p >
+
+## 重要提示：
+
+由于某些原因，WildCard野卡已于2025年7月12日被迫停止服务。如果你之前已经开通了WildCard野卡，并且卡内仍有余额，请尽快将余额使用完毕。如果你之前没有开通过WildCard野卡，那么今后将无法再使用WildCard野卡订阅任何海外服务。
+
+今后，如果你想使用ChatGPT、Claude、Midjourney、Grok、Poe等海外AI工具，目前仅能选择合租（镜像站）或代充值这两种方式了。
+
+### AI工具合租和和代充值平台首选：<a href="https://nf.video/Sy195">银河录像局</a>
+
+银河录像局是一家专业、合法合规（在监管部门有备案）的大型平台，安全稳定，价格实惠，大家可以放心使用。
+
+银河录像局目前提供的服务包括：
+
+* ChatGPT Plus合租、ChatGPT Plus代充值、ChatGPT Plus原生独立帐号
+* Claude Pro合租、Claude Pro原生独立帐号
+* Midjourney合租、Midjourney原生独立帐号
+* SuporGrok合租、SuporGrok原生独立帐号
+
+此外，银河录像局还提供24小时在线客服，所有服务均有完善的售后支持！
+
+* 银河录像局官网：<a href="https://nf.video/Sy195">https://nf.video/Sy195</a>
+
+**注意**：通过银河录像局合租AI工具或代充值时，**使用优惠码“GPTBMW”可享受九折优惠**！
 
 ![Claude封面图](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B%EF%BC%88%E9%A6%96%E5%9B%BE%EF%BC%89.png)
 
@@ -18,7 +41,7 @@ Claude Pro不仅能够快速理解用户需求并做出精准响应，还能在�
 
 * 3.一个海外手机号码：这是注册过程中最容易让人卡住的一步，因为需要接收验证码完成验证。后续内容将详细讲解如何获取海外手机号码，帮助你解决这一问题。
 
-* 4.一个用于支付的国外银行卡或信用卡：升级订阅Claude Pro时需要绑定国外银行卡或信用卡。推荐使用 WildCard虚拟信用卡，它操作便捷、支付稳定且成功率高达100%。详细的WildCard虚拟信用卡开卡和支付教程将在后文中说明。（如何获取一张<a href="https://bewildcard.com/i/GPTBMW">WildCard虚拟信用卡</a>，请查看下文！）
+* 4.一个用于支付的国外银行卡或信用卡：升级订阅Claude Pro时需要绑定国外银行卡或信用卡。推荐使用 WildCard虚拟信用卡，它操作便捷、支付稳定且成功率高达100%。详细的WildCard虚拟信用卡开卡和支付教程将在后文中说明。
 
 ## 如何开通WildCard虚拟信用卡（详细操作步骤）
 
@@ -27,8 +50,6 @@ WildCard虚拟信用卡无需上传身份证，一分钟即可完成注册，支
 * 重点提示：使用我们的专属邀请码“GPTBMW”可享受优惠，同时支付成功率高达 100%。
 
 #### 第一步：访问WildCard官网
-
-* WildCard官网：<a href="https://bewildcard.com/i/GPTBMW">https://bewildcard.com/i/GPTBMW</a>
 
 打开WildCard官网，在首页右上角可以找到语言切换按钮，轻松切换英文/中文界面。向下滚动页面，你可以查看WildCard的收费标准、服务承诺，以及支持的全球服务（包括OpenAI、Claude、Midjourney、Apple Store、Google Play、ChatGPT、GitHub等）。页面还提供详细的注册步骤、零门槛支付说明和一键升级的图文介绍。
 
@@ -56,7 +77,7 @@ WildCard虚拟信用卡无需上传身份证，一分钟即可完成注册，支
 
 ![查看wildcard野卡卡片](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard-6%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%871.jpg)
 
-OK，可以看到，<a href="https://github.com/gptbmw/wildcard">wildcard虚拟信用卡</a> 的开卡过程非常简单，只需按照以下步骤操作：打开官网-注册-开通会员-选择服务年限-扫码支付，即可轻松完成开卡，并顺利订阅各种海外服务。
+OK，可以看到，wildcard虚拟信用卡的开卡过程非常简单，只需按照以下步骤操作：打开官网-注册-开通会员-选择服务年限-扫码支付，即可轻松完成开卡，并顺利订阅各种海外服务。
 
 ## 如何注册Claude账号详细操作步骤
 
@@ -110,8 +131,6 @@ OK，可以看到，<a href="https://github.com/gptbmw/wildcard">wildcard虚拟�
 
 当设置好账号名后，你的Claude账号注册已经完成，现在可以正式体验Claude的强大功能。如果你想解锁更多高级功能，例如突破对话限制、高流量时段的优先权、更大的使用量、更长的上下文处理能力以及更快的输出速度，就需要完成Claude Pro的订阅。
 
-<a href="https://github.com/gptbmw/wildcard">点击直达wildcard官网</a> 
-
 ## 如何订阅Claude Pro详细流程
 
 Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻松搞定。以下是详细流程：
@@ -130,7 +149,7 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 
 ### 第三步：支付订阅费用
 
-打开<a href="https://github.com/gptbmw/wildcard">wildcard</a>页面，点击左侧菜单的“按产品支付”选项，找到并选择Claude进行支付。支付完成后，WildCard会提供Claude Pro订阅的相关操作步骤，供你参考。
+打开wildcard页面，点击左侧菜单的“按产品支付”选项，找到并选择Claude进行支付。支付完成后，WildCard会提供Claude Pro订阅的相关操作步骤，供你参考。
 
 ![支付Claude Pro订阅费用](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/pro-3.jpg)
 
@@ -141,8 +160,6 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 ![绑定输入卡片信息](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/pro-4.png)
 
 通过以上四个简单步骤，你就完成了Claude Pro的订阅。现在，请尽情享受Claude Pro带来的高效服务和强大功能吧！
-
-<a href="https://github.com/gptbmw/wildcard">点击直达wildcard官网</a>
 
 ## Claude Pro的功能特点（优势）
 
@@ -160,8 +177,6 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 
 * 支持语音聊天：Claude Pro支持实时语音聊天功能，为用户提供更加人性化的服务体验，适合需要即时沟通的场景。
 
-<a href="https://github.com/gptbmw/wildcard">点击直达wildcard官网</a>
-
 ## 如何取消Claude Pro订阅？
 
 当我们成功订阅了Claude Pro后，和ChatGPT Plus一样，通常下个月默认自动续费，以确保服务不中断。如果你不想再使用或者避免因WildCard卡中余额不足而导致扣款失败，及时管理订阅就显得非常重要。如果不想再续费，我们需要在Claude账号中取消订阅，那么应该如何取消Claude Pro订阅呢？以下是取消Claude Pro订阅的详细步骤：
@@ -172,11 +187,9 @@ Claude Pro的订阅过程非常简单，只需完成以下几个步骤即可轻�
 
 如果实在不会，我们也可以联系Claude的客服，帮助我们取消订阅。取消订阅后，我们的Pro功能不会立即停止，而是在当前付费周期到期后停止。
 
-* 友情提示：如果我们的<a href="https://github.com/gptbmw/wildcard">wildcard</a>卡中余额不足，多次扣款失败后，卡片将会被冻结。如果需要解冻，则需支付一定费用才能解冻。为避免出现此类情况，请确保卡片余额充足，或者提前取消自动续费。
+* 友情提示：如果我们的wildcard卡中余额不足，多次扣款失败后，卡片将会被冻结。如果需要解冻，则需支付一定费用才能解冻。为避免出现此类情况，请确保卡片余额充足，或者提前取消自动续费。
 
 如果我们在使用Claude Pro过程中遇到任何问题，都可以直接联系Claude的官方客服。可以点击官网右下角的客服按钮进行咨询，通常Claude Pro的客服团队会在24小时内回复，并帮助我们解决问题。Claude Pro为用户提供了全面的服务体验，帮助我们顺畅地享受Claude Pro带来的强大功能。
-
-<a href="https://github.com/gptbmw/wildcard">点击直达wildcard官网</a>
 
 ## 如何预防Claude封号？
 
@@ -190,7 +203,7 @@ Claude封号非常严重，如何保持我们的账号安全、稳定使用Claud
 
 * 定期检查账单和订阅支付状态：如果你的订阅费用因支付问题而中断，可能会导致账号受到限制。定期检查支付状态，确保你的订阅费用按时结清。
 
-* 使用真实且安全的支付方式：避免使用不可靠的支付手段，如虚假信用卡或非法支付方式，这可能被视为欺诈行为而触发封号。推荐使用可信的支付工具如<a href="https://github.com/gptbmw/wildcard">wildcard虚拟信用卡</a>。
+* 使用真实且安全的支付方式：避免使用不可靠的支付手段，如虚假信用卡或非法支付方式，这可能被视为欺诈行为而触发封号。推荐使用可信的支付工具如wildcard虚拟信用卡。
 
 * 在固定设备上登录使用：避免频繁更换设备进行登录，这可能被系统判定为异常行为。建议在稳定、固定的设备上使用Claude，减少系统的安全验证触发几率。
 
@@ -202,7 +215,7 @@ Claude封号非常严重，如何保持我们的账号安全、稳定使用Claud
 
 ## 如何管理WildCard卡片？
 
-为了确保<a href="https://github.com/gptbmw/wildcard">WildCard卡片</a>能够正常使用而不被冻结，有效的管理非常重要。管理的关键在于确保卡片余额充足，并定期检查消费记录，以避免因余额不足导致的扣款失败或服务中断。如果多次扣款失败，卡片将被冻结，解冻时需要支付额外费用。以下是一些有效的管理方法，帮助你确保卡片的顺畅使用。
+为了确保WildCard卡片能够正常使用而不被冻结，有效的管理非常重要。管理的关键在于确保卡片余额充足，并定期检查消费记录，以避免因余额不足导致的扣款失败或服务中断。如果多次扣款失败，卡片将被冻结，解冻时需要支付额外费用。以下是一些有效的管理方法，帮助你确保卡片的顺畅使用。
 
 * 提前查看并充值卡片余额
 
@@ -232,7 +245,7 @@ Claude封号非常严重，如何保持我们的账号安全、稳定使用Claud
 
 ## WildCard虚拟信用卡充值后未消费的余额如何处理？
 
-在使用<a href="https://github.com/gptbmw/wildcard">wildcard虚拟信用卡</a>时，充值后的余额如果没有消费完，不需要担心资金会浪费。WildCard平台提供了便捷的余额提现功能，允许用户将未使用的余额直接提现到支付宝，且提现不收取任何手续费，确保资金安全高效地返回到你的账户。
+在使用wildcard虚拟信用卡时，充值后的余额如果没有消费完，不需要担心资金会浪费。WildCard平台提供了便捷的余额提现功能，允许用户将未使用的余额直接提现到支付宝，且提现不收取任何手续费，确保资金安全高效地返回到你的账户。
 
 ## WildCard虚拟信用卡如何提现？
 
@@ -242,7 +255,7 @@ Claude封号非常严重，如何保持我们的账号安全、稳定使用Claud
 
 ## WildCard虚拟信用卡提现时的注意事项
 
-在使用<a href="https://github.com/gptbmw/wildcard">wildcard虚拟信用卡</a>时，未消费的余额是可以提现的，这为用户提供了极大的资金灵活性。相比一些需要繁琐手续或额外费用的平台，WildCard的提现功能简单高效，且支持直接提取到支付宝账户，无需支付任何手续费。为了确保提现操作顺利进行并避免不必要的麻烦，以下是一些需要注意的事项：
+在使用wildcard虚拟信用卡时，未消费的余额是可以提现的，这为用户提供了极大的资金灵活性。相比一些需要繁琐手续或额外费用的平台，WildCard的提现功能简单高效，且支持直接提取到支付宝账户，无需支付任何手续费。为了确保提现操作顺利进行并避免不必要的麻烦，以下是一些需要注意的事项：
 
 * 提现金额限制
 
@@ -260,14 +273,16 @@ WildCard的提现服务无任何手续费，用户可以放心操作。直接提
 
 # 其他相关文章
 
-* <a href="https://github.com/gptbmw/gptbmw.github.io">升级订阅ChatGPT Plus会员教程</a> ：本文详细讲解了如何注册个人独立ChatGPT账号，以及如何使用国内支付方式升级订阅ChatGPT Plus会员。同时文章中还重点介绍了如何开通申请野卡虚拟信用卡、如何做好WildCard卡片管理，轻松开启您的ChatGPT之旅，从中获得无限可能。
+<a href="https://github.com/gptbmw/wildcard">WildCard野卡虚拟信用卡</a> ：此文中详细深入的介绍了WildCard野卡虚拟信用卡的开通方法、特点和优势以及日常使用中的注意事项和管理方法，帮助你快速顺利的开通一张野卡虚拟信用卡，操作简单，无需身份证，可使用支付宝轻松订阅海外服务和购物。
 
-* <a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus拼车合租</a> ：文章详细介绍了如何安全高效地合租拼车ChatGPT Plus账号以及流媒体和AI工具合租平台推荐，分析合租拼车的优势和潜在风险，并提供最佳的使用技巧和注意事项，帮助大家低成本享受高性价比的ChatGPT Plus订阅体验。
+<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus订阅教程</a> ：本文将详细讲解如何注册ChatGPT账号？中国大陆用户如何使用WildCard虚拟信用卡充值购买ChatGPT Plus账号？
 
-* <a href="https://github.com/gptbmw/netflix-hezu">奈飞Netflix合租</a> ：追剧党福利！本文将全面深入解析2025年如何拼车购买Netflix账号，包括合租奈飞账号的优势、靠谱的奈飞合租平台推荐、合租奈飞的注意事项，帮助大家在享受Netflix高清流媒体服务的同时安全合规使用，低成本高效率的观看4K影像。
+<a href="https://github.com/gptbmw/Midjourney">Midjourney订阅教程</a>：本文将详细介绍国内用户开通Midjourney会员的三种方式：自己动手订阅Midjourney会员、寻找可靠的Midjourney代充值服务、通过靠谱平台合租Midjourney会员。
 
-* <a href="https://github.com/gptbmw/wildcard">野卡wildcard虚拟信用卡</a> ：此文中详细深入的介绍了wildcard野卡虚拟信用卡的开通方法、特点和优势以及日常使用中的注意事项和管理方法，帮助你快速顺利的开通一张野卡虚拟信用卡，操作简单，无需身份证，可使用支付宝轻松订阅海外服务和购物。
+<a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus合租</a>：本文详细介绍了如何安全高效地拼车合租ChatGPT Plus账号，分析了合租拼车的优势与潜在风险，并提供了最佳的使用技巧和注意事项，帮助大家以低成本享受高性价比的ChatGPT Plus体验。
 
-* <a href="https://github.com/gptbmw/nf-video">银河录像局</a> ：本文带领小伙伴一起深入探索银河录像局是什么，能给我们提供哪些服务、如何注册使用银河录像局等，平台真实靠谱，价格透明，带你体验各种热门AI 工具和高端无广告的影视娱乐，无论你是想更高效的工作，还是享受高质量的影视和音乐带来的快乐，银河录像局都可以满足你的需求。
+<a href="https://github.com/gptbmw/netflix-hezu">奈飞Netflix合租</a> ：追剧党福利！本文将全面深入解析2025年如何拼车购买Netflix账号，包括合租奈飞账号的优势、靠谱的奈飞合租平台推荐、合租奈飞的注意事项，帮助大家在享受Netflix高清流媒体服务的同时安全合规使用，低成本高效率的观看4K影像。
 
-* <a href="https://github.com/gptbmw/chatgpt-4o">2025最新ChatGPT-4o生图指南</a> ：文章中详细介绍了什么是chatgpt-4o、它的优势和核心功能，以及如何获得和使用chatgpt-4o图像生成的强大功能，还解答了大家比较关心的生图比较慢、GPT-4o与GPT-4有什么区别等问题。
+<a href="https://github.com/gptbmw/nf-video">银河录像局</a> ：本文带领小伙伴一起深入探索银河录像局是什么，能给我们提供哪些服务、如何注册使用银河录像局等，平台真实靠谱，价格透明，带你体验各种热门AI 工具和高端无广告的影视娱乐，无论你是想更高效的工作，还是享受高质量的影视和音乐带来的快乐，银河录像局都可以满足你的需求。
+
+<a href="https://github.com/gptbmw/chatgpt-4o">GPT-4o生图指南</a> ：文章详细介绍了什么是ChatGPT-4o，它的优势和核心功能，以及如何获取和使用ChatGPT-4o强大的图像生成功能。同时，还解答了大家关心的生成图片速度较慢、GPT-4o与GPT-4有何区别等常见问题。
