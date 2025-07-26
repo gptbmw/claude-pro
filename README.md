@@ -23,7 +23,7 @@
 
 * 银河录像局官网：<a href="https://nf.video/Sy195">https://nf.video/Sy195</a>
 
-**注意**：通过银河录像局合租AI工具或代充值时，**使用优惠码“GPTBMW”可享受九折优惠**！
+**注意**：通过银河录像局合租AI工具或代充值时，**使用银河录像局优惠码“GPTBMW”可享受九折优惠**！
 
 ![Claude封面图](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B%EF%BC%88%E9%A6%96%E5%9B%BE%EF%BC%89.png)
 
