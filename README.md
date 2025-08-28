@@ -99,7 +99,7 @@ OK，可以看到，wildcard虚拟信用卡的开卡过程非常简单，只需�
 
 #### 方法一：通过Sms-activate接码平台获取
 
-* （1）访问Sms-activate官网：https://sms-activate.guru/?ref=12600826， 右上角可以切换语言为中文。
+* （1）访问Sms-activate官网：https://sms-activate.guru/?ref=12600826 ， 右上角可以切换语言为中文。
 
 ![访问Sms-activate官网](https://raw.githubusercontent.com/gptbmw/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%911.jpg)
   
